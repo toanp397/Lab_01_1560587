@@ -10,5 +10,5 @@
 |---------|---------|---------|---------|---------|---------|---------|
 | 1-3||TH PTƯD CSDL2|DVụ HĐH Linux||Tư Tưởng HCM||
 |4-6||TH TKHT Mạng |TKHT Mạng|PTƯD CSDL2|Pháp Luật ĐC|Giải Tích B2|
-|7-9|TH KTLT|||KTLT||TH DVụ HĐH Linux|
+|7-9|TH KTLT||KTLT|||TH DVụ HĐH Linux|
 |10-12|TH LTWeb 2|LTWeb 2|||||
